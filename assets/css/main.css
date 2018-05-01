@@ -3,6 +3,15 @@
 
 /* Reset */
 
+.blog-post {
+	font-size: 22px;
+}
+
+.blog-para {
+	color:black;
+	margin-bottom:1.5em;
+}
+
 .my-gallery {
   width: 100%;
   float: left;
