@@ -23,7 +23,7 @@ twitter_username: melissadooo
 github_username:  melissadu
 defaults:
   - scope:
-      path: "assets/img"
+      path: "imgs"
     values:
       image: true
 
