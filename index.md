@@ -7,8 +7,8 @@ layout: default_notitle
 
 ![melissa](/imgs/me1.jpg){: .center-image}
 
-I'm Melissa Du, a senior at Stanford studying Computer Science and History. Prior to college, I spent twelve years of my life [playing violin](https://www.youtube.com/user/asiansarentnerdy) competitively. I currently spend my time as an research assistant to [Professor Steve Zipperstein](https://history.stanford.edu/people/steven-zipperstein) in the Stanford History department and as a venture intern at the [Mayfield Fund](https://www.mayfield.com/). 
+I'm Melissa Du, a recent graduate of Stanford University where I studied Computer Science and History. Prior to college, I spent twelve years of my life [playing violin](https://www.youtube.com/user/asiansarentnerdy) competitively. I currently spend my time as a Product Manager at [Dropbox](https://www.dropbox.com). 
 
 In the past, I've worked as an engineer at Microsoft, Tesla, and Zumper. Feel free to check out [my LinkedIn](https://www.linkedin.com/in/mdu96/) for a more complete picture of what I've done. 
 
-I'm a fast learner and an avid reader. These days, I'm reading a lot about ethics in tech and learning how to tell good stories.
+I'm a fast learner and an avid reader, and I'm still discovering what problem areas excite me the most. These days, I'm thinking a lot about ethics in tech and improving my photography skills.
