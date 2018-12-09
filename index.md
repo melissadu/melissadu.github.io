@@ -5,7 +5,7 @@
 layout: default_notitle
 ---
 
-![melissa](/imgs/me1.jpg){: .center-image}
+[comment] <> (![melissa](/imgs/me1.jpg){: .center-image})
 
 My name is Melissa. I currently work as a Product Manager at [Dropbox](https://www.dropbox.com), and I recently graduated from Stanford where I studied Computer Science and History. Prior to college, I spent twelve years of my life [playing violin](https://www.youtube.com/user/asiansarentnerdy) competitively. 
 
