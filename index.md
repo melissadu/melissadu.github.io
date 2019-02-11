@@ -8,8 +8,12 @@ layout: default_notitle
 [comment]: # (![melissa](/imgs/me1.jpg)
 [comment]: # ({: .center-image})
 
-My name is Melissa. I currently work as a Product Manager at [Dropbox](https://www.dropbox.com), and I recently graduated from Stanford where I studied Computer Science and History. Prior to college, I spent twelve years of my life [playing violin](https://www.youtube.com/user/asiansarentnerdy) competitively. 
 
-In the past, I've worked as an engineer at Microsoft, Tesla, and Zumper. Feel free to check out [my LinkedIn](https://www.linkedin.com/in/mdu96/) if you're interested in a more complete picture of what I've done. 
+I'm Melissa. Feel free to: 
+* Watch me [play violin](https://www.youtube.com/user/asiansarentnerdy)
+* See what I'm [currently up to](https://www.linkedin.com/in/mdu96)
+* Read my [random thoughts](https://www.twitter.com/melissadooo)
+* Give me book recommendations and/or talk to me about [what I'm reading](https://www.goodreads.com/user/show/30668519-melissa-du)
 
-I'm a fast learner and an avid reader, and I'm still discovering what excites me the most. These days, I [read a lot](https://www.goodreads.com/user/show/30668519-melissa-du) and spend time with my friends.
+
+
