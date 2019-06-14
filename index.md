@@ -10,6 +10,7 @@ layout: default_notitle
 
 
 I'm Melissa. Feel free to: 
+* Check out [some stuff I've written](https://www.melissadu.com/blog/)
 * Watch me [play violin](https://www.youtube.com/user/asiansarentnerdy)
 * See what I'm [currently up to](https://www.linkedin.com/in/mdu96)
 * Read my [random thoughts](https://www.twitter.com/melissadooo)
