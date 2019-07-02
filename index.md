@@ -10,10 +10,12 @@ layout: default_notitle
 
 
 I'm Melissa. Feel free to: 
+* Check out [some stuff I've written](https://www.melissadu.com/blog/)
 * Watch me [play violin](https://www.youtube.com/user/asiansarentnerdy)
 * See what I'm [currently up to](https://www.linkedin.com/in/mdu96)
 * Read my [random thoughts](https://www.twitter.com/melissadooo)
-* Give me book recommendations and/or talk to me about [what I'm reading](https://www.goodreads.com/user/show/30668519-melissa-du)
+* [Give me book recommendations](https://goo.gl/forms/uGmI990JrHOLaAtF2)
+* Talk to me about [what I'm reading](https://www.goodreads.com/user/show/30668519-melissa-du)...or just [talk to me](https://goo.gl/forms/NhlU0xLjPVSCaWxq2)
 
 
 
