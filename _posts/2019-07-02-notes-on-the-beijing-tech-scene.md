@@ -33,7 +33,7 @@ While I’ve read about a lot of backlash to 996 online, the young people that I
 
 With the exponential rise of companies like [VIPKid](http://www.vipkid.com) and [Zuoyebang](http://www.zuoyebang.com) in the past two years, education technology seems to be a hot area for Chinese start-ups right now. New online platforms are taking advantage of high-quality video-conferencing technologies to instantly connect students with teachers and are going head-to-head with more traditional industry leaders such as New Oriental, which currently has a market cap of about $16B USD. 
 
-Clearly what hasn’t changed is Chinese people’s willingness to spend their discretionary income on K-12 education, probably in large part due to the rigor imposed by the gaokao (高考) system. Newer startups in the education technology area are now finding ways to apply AI to better adaptively teach children skills across a variety of different areas like English, music, and coding. 
+Clearly what hasn’t changed is Chinese people’s willingness to spend their discretionary income on K-12 education, probably in large part due to the rigor imposed by the gaokao (高考) system. Newer startups in the education technology area are now finding ways to apply AI to adaptively teach children skills across a variety of different areas like English, music, and coding. 
 
 <br/>
 <a name="chuangye"></a> **Entrepreneurship Road**
