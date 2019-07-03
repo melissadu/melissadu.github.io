@@ -17,7 +17,7 @@ In this post:
 
 Beijing is currently one of three major tech hotspots in China (the other two being Shanghai and Shenzhen) and houses some of the world’s most valuable start-ups such as Baidu, Didi, and Meituan. More than 1/3 of all VC deals in China are made in Beijing. 
 
-At the same time Beijing is also one of the oldest cities in the world. It’s been the capital of China for more than 3,000 years and houses some of the world’s most important historical wonders — the Great Wall, the Forbidden City, Tiananmen Square — as well as two of the best universities in all of China — Tsinghua and Peking University. 
+At the same time Beijing is one of the oldest cities in the world. It’s been the capital of China for more than 3,000 years and houses some of the world’s most important historical wonders — the Great Wall, the Forbidden City, Tiananmen Square — as well as two of the best universities in all of China — Tsinghua and Peking University. 
 
 So to say Beijing is an important place in the world would be an understatement. The tech scene in Beijing (but also the rest of China) has been developing rapidly in the past ten years and even more so in the past few. The below are some notes on what I observed during my time there in June 2019. 
 
@@ -31,7 +31,7 @@ While I’ve read about a lot of backlash to 996 online, the young people that I
 <br/>
 <a name="edtech"></a> **Education Technology**
 
-With the exponential rise of companies like [VIPKid](www.vipkid.com) and [Zuoyebang](www.zuoyebang.com) in the past two years, education technology seems to be a hot area for Chinese start-ups right now. New online platforms are taking advantage of high-quality video-conferencing technologies to instantly connect students with teachers and are going head-to-head with more traditional industry leaders such as New Oriental, which currently has a market cap of about $16B USD. 
+With the exponential rise of companies like [VIPKid](http://www.vipkid.com) and [Zuoyebang](http://www.zuoyebang.com) in the past two years, education technology seems to be a hot area for Chinese start-ups right now. New online platforms are taking advantage of high-quality video-conferencing technologies to instantly connect students with teachers and are going head-to-head with more traditional industry leaders such as New Oriental, which currently has a market cap of about $16B USD. 
 
 Clearly what hasn’t changed is Chinese people’s willingness to spend their discretionary income on K-12 education, probably in large part due to the rigor imposed by the gaokao (高考) system. Newer startups in the education technology area are now finding ways to apply AI to better adaptively teach children skills across a variety of different areas like English, music, and coding. 
 
