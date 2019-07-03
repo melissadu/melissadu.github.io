@@ -50,7 +50,9 @@ The logistics network in China is incredibly developed, much more so than here i
 But in China labor is cheap and abundant, and the logistics network makes everything instantaneous. Food ordered on an app arrives instantly, and even beyond food you can instantly order literally _anything_ your heart desires straight to your home: a haircut, cleaning services, an art teacher, sliced fruit… 
 
 Also, just for fun, here’s a photo of some workers I saw organizing packages for delivery on the side of the road. I’m not sure if this is the usual workflow for sorting packages, but I thought it was interesting. 
-![](../../../imgs/packages.jpg)
+
+<br/>
+{% include image.html url="../../../imgs/packages.jpg" %}
 
 <br/>
 <a name="wechat"></a> **WeChat (of course)**
@@ -64,14 +66,22 @@ Any post on China would be incomplete without a mention of WeChat. This time, th
 <a name="people"></a> **The absurd number of people**
 
 I can’t ever really get used to just how many people there are in China. Rush hour on the trains/buses is insane, and Beijing traffic seems to be bad at all hours of the day. If you thought waiting in line for brunch in San Francisco was bad, here is a photo of the line (at a non-rush hour time) at HeyTea, a very popular tea spot in China: 
-![](../../../imgs/heytea.jpg)
+
+{% include image.html url="../../../imgs/heytea.jpg" %}
+
 
 Here are some photos of a crowd of people waiting to watch the flags being lowered at Tiananmen Square: 
-![](../../../imgs/crowd.jpg)
-![](../../../imgs/square.jpg)
+
+{% include image.html url="../../../imgs/crowd.jpg" %}
+<br/>
+{% include image.html url="../../../imgs/square.jpg" %}
 
 <br/>
 <a name="photos"></a> **And finally, some photos of some delicious food I had in Beijing, just for fun...**
 
-![](../../../imgs/breakfast.jpg)
-![](../../../imgs/duck.jpg)
+<br/>
+<!-- <img class="centered-img" src="../../../imgs/breakfast.jpg"> -->
+{% include image.html url="../../../imgs/breakfast.jpg" description="All this delicious food for just $3 USD" %}
+<br/>
+{% include image.html url="../../../imgs/duck.jpg" description="The best roast duck in Beijing" %}
+
