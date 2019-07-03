@@ -32,7 +32,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-google_analytics: UA—143167044-1
+google_analytics: UA-143167044-1
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
