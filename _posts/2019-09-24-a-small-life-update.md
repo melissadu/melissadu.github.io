@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A small (?) life update"
-date:   2019-09-24 21:14:00 -0700
+title:  "A small life update"
+date:   2019-09-24 01:14:00 -0700
 ---
 
 I quit my first full-time job three weeks ago to start a company. At the time this felt like a really monumental decision but now, looking backwards, it wasn’t really that big of a deal. I’m more convinced than ever that, at this stage of my life, time is the most important thing to optimize for and that it pays off in dividends to be thoughtful about where and how my time is spent. Me quitting my job was a deliberate choice to dedicate my time solely around my goals and my growth. I’m thankful to have savings from my past jobs and internships to keep me going for a bit and for friends and family who are always a great source of support. 
