@@ -18,7 +18,7 @@ I'm Melissa. Here are some things you can do here:
 
 ### On Books
 Anyone who knows me knows that reading is a big part of who I am. 
-* Talk to me about [books that have strongly impacted who I am](https://www.melissadu.com/blog/)
+* Talk to me about [books that have strongly impacted who I am](https://www.melissadu.com/books/)
 * You're welcome to [give me book recommendations](https://goo.gl/forms/uGmI990JrHOLaAtF2)
 
 
