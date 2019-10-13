@@ -16,6 +16,12 @@ dl, dd, ol, ul, figure {
   display: block;
 }
 
+img[src*="left-img"] {
+  margin: 0px 15px 15px 0px;
+  float: left;
+  width: 15%;
+}
+
 .centered-img {
   display: block;
   margin-left: auto;
