@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Biking in San Francisco"
-date:   2019-12-29 01:14:00 -0700
+date:   2019-12-29 01:12:00 -0700
 ---
 
 My fondest memories of San Francisco are the ones I experience on my bicycle as I’m shuttling myself through the sometimes busy, always dirty streets of the city.
