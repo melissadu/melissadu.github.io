@@ -1,3 +1,12 @@
+#email_addr {
+  font-size: 12pt;
+  margin-top: 0.5rem;
+}
+
+button {
+  font-size: 12pt;
+}
+
 /**
  * Reset some basic elements
  */
