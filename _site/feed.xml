@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-29T16:48:22-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melissa Du</title><subtitle></subtitle><entry><title type="html">Biking in San Francisco</title><link href="http://localhost:4000/2019/12/29/san-francycle.html" rel="alternate" type="text/html" title="Biking in San Francisco" /><published>2019-12-29T00:12:00-08:00</published><updated>2019-12-29T00:12:00-08:00</updated><id>http://localhost:4000/2019/12/29/san-francycle</id><content type="html" xml:base="http://localhost:4000/2019/12/29/san-francycle.html">&lt;p&gt;My fondest memories of San Francisco are the ones I experience on my bicycle as I’m shuttling myself through the sometimes busy, always dirty streets of the city.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-29T17:05:20-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melissa Du</title><subtitle></subtitle><entry><title type="html">How I drastically improved by Twitter experience</title><link href="http://localhost:4000/2020/04/29/effective-twitter.html" rel="alternate" type="text/html" title="How I drastically improved by Twitter experience" /><published>2020-04-29T01:12:00-07:00</published><updated>2020-04-29T01:12:00-07:00</updated><id>http://localhost:4000/2020/04/29/effective-twitter</id><content type="html" xml:base="http://localhost:4000/2020/04/29/effective-twitter.html">&lt;p&gt;I love Twitter because it’s the only place on the Internet I go where I can read the somewhat real-time thoughts of the authors/founders/politicians/etc I admire but who (for obvious reasons) I don’t have regular conversations with. Unfortunately, Twitter’s default user experience sucks.&lt;/p&gt;
+
+&lt;p&gt;I don’t necessarily blame them. Twitter is an ad-driven business and as such, they employ thousands of engineers, marketers, and product people to build an experience that ensures you stay on Twitter for as long as possible and click on as many ads as possible. But if you want to curate your newsfeed so that you get what &lt;em&gt;you&lt;/em&gt; want out of Twitter and not what some product manager decided you should want from Twitter, then read on.&lt;/p&gt;
+
+&lt;h3 id=&quot;default-experiences-suck&quot;&gt;Default experiences suck&lt;/h3&gt;
+
+&lt;p&gt;Here are three reasons why Twitter’s default experience sucks:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Likes” are very weak indicators of tweets that I might find interesting&lt;/strong&gt;, yet other people’s “liked” tweets take up such a big part of my Twitter timeline. There are a few reasons why seeing so many “liked” tweets is annoying:&lt;/p&gt;
+
+    &lt;p&gt;First, people like tweets for all sorts of reasons: to promote causes they believe in, to support their friends, to indicate they thought the tweet was funny, etc. But since I don’t actually know (or don’t know that well) most of the people I follow, all of that signal just becomes noise on my timeline since I only really care about what ~20 of my close friends like and care about.&lt;/p&gt;
+
+    &lt;p&gt;Second, and more importantly, way more people “like” tweets instead of write them (&lt;em&gt;See the &lt;a href=&quot;https://en.wikipedia.org/wiki/1%25_rule_Internet_culture&quot;&gt;1% rule&lt;/a&gt;, which posits that in Internet communities, 99% of users lurk while only 1% of users add content&lt;/em&gt;). Because “liking” is such low stakes, easy behavior, there’s no skin in the game for the person who liked the tweet. (&lt;a href=&quot;https://www.washingtonpost.com/news/powerpost/wp/2017/09/12/after-tedcruz-liked-a-porn-tweet-sen-ted-cruz-blamed-a-staffing-issue/&quot;&gt;Like Ted Cruz&lt;/a&gt;, you can easily create plausible deniability by claiming you “mistakenly” liked a problematic tweet.) Thus, unlike retweets or actual tweets, liked tweets are really bad approximations for ideas the person actually believes in and would stand behind.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The timeline encourages positive reinforcement that quickly sucks you into echo chambers.&lt;/strong&gt; I follow my friends, and as a 24 year old living in the Bay Area, unsurprisingly a lot of my friends work in tech. Before I know it, all of my suggested tweets and accounts to follow are from others who work in tech, and suddenly my default timeline has become VC twitter. I don’t &lt;em&gt;care&lt;/em&gt; that every VC has suddenly started using Clubhouse, thank you very much.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The default experience is built to be a distracting, mindless rabbit hole&lt;/strong&gt;. Twitter encourages you to spend as much time as possible on their site in ways that are difficult to avoid, as much as the ideal version of yourself says that you don’t care. They’ve objectively built a very addicting experience (see my point above about them being an ad-driven business), so if you come to Twitter to accomplish a small task for a productive purpose, it won’t be surprising if awhile later you’ve entered some rabbit hole and are still mindlessly scrolling.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;optimizing-your-twitter-experience&quot;&gt;Optimizing your Twitter experience&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use Lists to only add people you want to see tweets from.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Completely remove your default timeline by using &lt;a href=&quot;https://www.tweetdeck.twitter.com&quot;&gt;Tweetdeck&lt;/a&gt;&lt;/strong&gt;, which allows you to customize your Twitter experience. Some side benefits: Tweetdeck is ad-free, so you will no longer have Promoted Tweets clogging up your timeline, and the tweets show up in reverse chronological order, so you don’t have to see what Twitter’s algorithms have decided are top tweets for you!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In Tweetdeck, add the lists you’ve created in Step 1 as your default view instead of the timeline.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Optional:&lt;/em&gt; Generously block and un-block keywords. I jump back and forth between how I feel on this one. Sometimes I think the “mute keywords” feature will lead to a dystopian future in which everyone builds their own social-media echo chambers and only read tweets that are in line with their own beliefs. Other times I think the muting feature is great because then you don’t have to get annoyed by seeing the 100th tweet about something you’ve already read ad nauseum about.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;That’s it. I’d love to hear if you agree or disagree with me about how to use Twitter. I’d love it even more if you have suggestions about how to further improve my Twitter experience.&lt;/p&gt;</content><author><name></name></author><summary type="html">I love Twitter because it’s the only place on the Internet I go where I can read the somewhat real-time thoughts of the authors/founders/politicians/etc I admire but who (for obvious reasons) I don’t have regular conversations with. Unfortunately, Twitter’s default user experience sucks.</summary></entry><entry><title type="html">Biking in San Francisco</title><link href="http://localhost:4000/2019/12/29/san-francycle.html" rel="alternate" type="text/html" title="Biking in San Francisco" /><published>2019-12-29T00:12:00-08:00</published><updated>2019-12-29T00:12:00-08:00</updated><id>http://localhost:4000/2019/12/29/san-francycle</id><content type="html" xml:base="http://localhost:4000/2019/12/29/san-francycle.html">&lt;p&gt;My fondest memories of San Francisco are the ones I experience on my bicycle as I’m shuttling myself through the sometimes busy, always dirty streets of the city.&lt;/p&gt;
 
 &lt;p&gt;As a cyclist, I’m in a constant battle with drivers. I dangerously skid into the car lane when careless Uber drivers pull in front of me on Valencia to drop off passengers. I squeeze my brakes as hard as I can when yet another car cuts me off to quickly turn right at an intersection. And when I pedal down a crowded street…I can only hope that the drivers are thoughtful enough to look twice before swerving into the sad, unprotected bicycle lane.&lt;/p&gt;
 
