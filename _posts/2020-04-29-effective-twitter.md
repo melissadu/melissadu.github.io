@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I drastically improved by Twitter experience"
+title:  "How I drastically improved my Twitter experience"
 date:   2020-04-29 01:12:00 -0700
 ---
 I love Twitter because it's the only place on the Internet I go where I can read the somewhat real-time thoughts of the authors/founders/politicians/etc I admire but who (for obvious reasons) I don't have regular conversations with. Unfortunately, Twitter's default user experience sucks.
