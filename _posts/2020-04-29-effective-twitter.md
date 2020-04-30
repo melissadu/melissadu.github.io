@@ -30,7 +30,3 @@ Here are three reasons why Twitter's default experience sucks:
 3. In Tweetdeck, add the lists you've created in Step 1 as your default view instead of the timeline. 
 
 4. _Optional:_ Generously block and un-block keywords. I jump back and forth between how I feel on this one. Sometimes I think the "mute keywords" feature will lead to a dystopian future in which everyone builds their own social-media echo chambers and only read tweets that are in line with their own beliefs. Other times I think the muting feature is great because then you don't have to get annoyed by seeing the 100th tweet about something you've already read ad nauseum about.
-
-### Conclusion
-
-That's it. I'd love to hear if you agree or disagree with me about how to use Twitter. I'd love it even more if you have suggestions about how to further improve my Twitter experience.
