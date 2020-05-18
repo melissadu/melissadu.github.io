@@ -6,16 +6,15 @@ date:   2020-05-17 01:12:00 -0700
 
 I thought I'd share the rabbit hole my restless, sleep-addled brain took me down on the Internet last night. Like transient dreams, my rabbit-hole escapades are usually quickly forgotten, but today I found myself mulling over a lot of what I had read. 
 
-My rabbit hole began with <a href="https://twitter.com/cwervo/status/1260411312921772034">this tweet</a>: 
-<img style="width: 70%;" src="/imgs/rabbit-hole-tweet.png">
+My rabbit hole began with <a href="https://twitter.com/cwervo/status/1260411312921772034">this tweet</a>: <br>
+<img style="width: 50%;" src="/imgs/rabbit-hole-tweet.png">
 
 I was really fascinated by these niche research papers, but began dozing off after skimming through a few of them. I wasn't ready to fall asleep, though, and these Wii papers had put me in a mood to have my mind blown by interesting research experiments. So I decided to search for some psychology studies and stumbled across Dr. Rosenhan's 1973 research paper, <a href="http://psychrights.org/articles/rosenham.htm">On Being Sane in Insane Places</a>.
 
 
 ### On being sane in insane places
 
-<img style="width: 30%;" src="/imgs/insane.png">
-
+<img style="width: 50%;" src="/imgs/insane.png"><br>
 I was unsettled by this study. In it, Dr. Rosenhan empirically questions exactly what makes a person "insane" and conducts an experiment in which “eight sane people gain secret admission to 12 different hospitals." He studies how each of those people are treated and details the circumstances in which they're discharged. Shockingly, all of the patients (who, mind you, are sane!) were discharged with a diagnosis of schizophrenia, and the average length of their stay — before demonstrating to the hospitals they were well enough to be released — was 19 days.
 
 This study made me start thinking about the trust we ascribe to labels, the stigma associated with those labels (in the case of this study, the particularly negative and detrimental associations of a schizophrenic diagnosis), and the organizations that hand out those labels. As my mind started wandering towards the topic of trust, I was reminded of a show, Golden Balls, that I think is one of the quickest and most exciting spectacles of trust and psychology.
